@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mecha-Coder&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Coder&layout=compact&theme=dark)=
 
 <!---
 Mecha-Coder/Mecha-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

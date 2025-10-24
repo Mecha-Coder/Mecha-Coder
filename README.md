@@ -8,10 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Coder&layout=compact&theme=dark)=
 
-test
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub)
-<!---
-Mecha-Coder/Mecha-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub)
+
+[![42 Profile](https://badge.mediaplus.ma/kettlebells/jpaul)](https://github.com/oakoudad/badge42)

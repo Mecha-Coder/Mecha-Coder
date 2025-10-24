@@ -10,5 +10,3 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub)
-
-[![42 Profile](https://badge.mediaplus.ma/kettlebells/jpaul)](https://github.com/oakoudad/badge42)

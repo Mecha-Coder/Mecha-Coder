@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Coder&layout=compact&theme=dark)=
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub)
+## My Stats
+|Languages I've used | LeetCode |  
+|----------|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Coder&layout=compact&theme=dark) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub&border=1&radius=20) |

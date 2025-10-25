@@ -1,29 +1,31 @@
-<h3>Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /></h3>
+<h3>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /></h3>
 
 ---
 
-### **About Me**
-My journey into coding began at university when I joined the robotics club. I discovered the power of C and C++ as I brought robots to life through code. Even in a non-software role, I applied programming to automate data extraction and chart generation in Excel—turning repetitive work into single-click solutions.
+### **🙋🏼 About Me**
+I’m Jason, a Mechanical Engineer with hands-on experience in manufacturing and a strong passion for software-driven automation. My interest in coding began during university through the robotics club, where I built and programmed combat robots using C and C++. Later, while working as a Manufacturing Engineer, I applied programming to automate data extraction and visualization tasks in Excel—streamlining workflows and reducing manual effort.
 
-These experiences cemented my passion for using code as a tool to solve real problems and create smarter, more efficient systems.
+After completing the Core Program at 42 Kuala Lumpur, I’ve deepened my foundation in computer science and software development. I’m now focused on creating intelligent systems where hardware and software integrate seamlessly to improve efficiency and solve real-world problems.
 
 ---
 
-### **Areas of Interest**
+### **📍 Areas of Interest**
 
-IoT | Embedded Systems | Robotics | Automation
+Embedded Systems | IoT | Robotics | Automation
+
+---
+
+### **🧰 Tech Toolbox**
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,python,bash,anaconda,express,flask,nodejs,react,tailwind,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### **📊 Stats**
 
 ![Mecha-Coder's Stats](https://github-readme-stats.vercel.app/api?username=Mecha-Coder&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mecha-Coder&exclude_repo=github-readme-stats,convoychat&theme=highcontrast" />
-
----
-
-###📬Reach me @**
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mecha-Coder&exclude_repo=github-readme-stats,convoychat&theme=highcontrast"/>
 
 <!-- Resource to built this readme 
 

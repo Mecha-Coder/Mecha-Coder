@@ -1,4 +1,4 @@
-![](https://cdn.pixabay.com/animation/2022/10/11/03/16/03-16-38-134_512.gif)
+<h3>Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /></h3>
 
 ---
 
@@ -15,8 +15,29 @@ IoT | Embedded Systems | Robotics | Automation
 
 ---
 
-### **My Stats**
+### **📊 Stats**
 
-|Languages I've used | LeetCode |  
-|----------|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mecha-Coder&layout=compact&theme=dark) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Mecha-Coder?theme=dark&font=Krub&border=1&radius=20) |
+![Mecha-Coder's Stats](https://github-readme-stats.vercel.app/api?username=Mecha-Coder&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mecha-Coder&exclude_repo=github-readme-stats,convoychat&theme=highcontrast" />
+
+---
+
+###📬Reach me @**
+
+
+<!-- Resource to built this readme 
+
+https://gh-stats-gen.vercel.app/
+
+Reference from
+- https://github.com/easonchai/easonchai
+- https://github.com/shazeen-1990
+- https://github.com/JordieYen/JordieYen
+- https://github.com/bobbyg603
+- https://github.com/SkyHearts
+- https://github.com/Abdelmathin
+
+--->
+
+
+

@@ -5,7 +5,7 @@
 ### **🙋🏼 About Me**
 I’m Jason, a Mechanical Engineer with hands-on experience in manufacturing and a strong passion for software-driven automation. My interest in coding began during university through the robotics club, where I built and programmed combat robots using C and C++. Later, while working as a Manufacturing Engineer, I applied programming to automate data extraction and visualization tasks in Excel—streamlining workflows and reducing manual effort.
 
-After completing the Core Program at 42 Kuala Lumpur, I’ve deepened my foundation in computer science and software development. I’m now focused on creating intelligent systems where hardware and software integrate seamlessly to improve efficiency and solve real-world problems.
+After completing the Core Program at [42 Kuala Lumpur](https://www.42network.org/campus/42-kuala-lumpur/), I’ve deepened my foundation in computer science and software development. I’m now focused on creating intelligent systems where hardware and software integrate seamlessly to improve efficiency and solve real-world problems.
 
 ---
 

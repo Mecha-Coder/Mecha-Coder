@@ -18,7 +18,7 @@ Embedded Systems | IoT | Robotics | Automation | Machine Learning
 ### **🧰 Tech Toolbox**
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,python,bash,anaconda,express,flask,nodejs,react,tailwind,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,docker,js,python,bash,anaconda,express,flask,nodejs,react,tailwind,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
 ---
 

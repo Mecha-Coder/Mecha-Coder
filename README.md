@@ -11,7 +11,7 @@ After completing the Core Program at [42 Kuala Lumpur](https://www.42network.org
 
 ### **📍 Areas of Interest**
 
-Building Applications | IoT | Automation | Machine Learning
+Full-stack | Building Applications | IoT | Automation | Machine Learning
   
 ---
 
